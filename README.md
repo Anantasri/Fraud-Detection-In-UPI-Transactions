@@ -25,7 +25,6 @@ The dataset contains 1,000 UPI transactions with the following features:
 - Transaction ID, Timestamp
 - Sender & Receiver details
 - Amount, Status
-- `is_fraud`: Target label (1 = Fraud, 0 = Legit)
 
 ## Preprocessing Steps
 
